@@ -1,0 +1,18 @@
+I Dark Angels,loyal
+III Emperor's Children,traitor
+IV Iron Warriors,traitor
+V White Scars,loyal
+VI Space Wolves,loyal
+VII Imperial Fists,loyal
+VIII Night Lords,traitor
+IX Blood Angels,loyal
+X Iron Hands,loyal
+XII World Eaters,traitor
+XIII Ultramarines,loyal
+XIV Death Guard,traitor
+XV Thousand Sons,traitor
+XVI Sons of Horus,traitor
+XVII Word Bearers,traitor
+XVIII Salamanders,loyal
+XIX Raven Guard,loyal
+XX Alpha Legion,traitor
