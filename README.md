@@ -9,4 +9,4 @@
 ### Objective of Assignment
 
 The primary objective of this assignment is to help me practice with two
-areas of Java that I struggle the most in: Loops and Maps.
+areas of Java that I struggle the most in: _Loops and Maps_.
